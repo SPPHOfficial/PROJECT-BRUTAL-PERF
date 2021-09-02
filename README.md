@@ -1,3 +1,6 @@
+![IMG_20210902_120218_445](https://user-images.githubusercontent.com/73354897/131781018-d6d65341-9c7c-4e23-9f23-ad2188ee19e9.jpg)
+
+
 # PROJECT BRUTAL PERF | Magisk
 
   By TG : @SIRANCHETA_OFFICIAL
