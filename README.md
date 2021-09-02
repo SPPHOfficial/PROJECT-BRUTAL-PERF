@@ -30,6 +30,15 @@ New way to boost your Gaming experience | To see another preview of full install
 - Dont put any performance module after installation.
 - Not a build.prop modification.
 
+# Don't know how to download
+Just follow this video on link (https://telegra.ph/file/b2503009cabefd32dadf5.mp4)
+
+Process: 
+
+- Open desktop mode
+- Click code and download
+- done
+
 # Can't install on magisk
 If your facing an error while installing on magisk 
 like this picture on link ( https://telegra.ph/file/20648760a732113a1f7e6.jpg )
