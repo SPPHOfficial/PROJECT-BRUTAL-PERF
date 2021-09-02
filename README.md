@@ -37,5 +37,9 @@ like this picture on link ( https://telegra.ph/file/20648760a732113a1f7e6.jpg ))
 Just follow this video fix tutorial on link ( https://telegra.ph/file/4b5343b4dae5428a3b600.mp4 )
 
 # Join 
-TG : @SUPERPROPSPH | @SPPHGROUP
+TG :
+
+@SUPERPROPSPH (https://t.me/superpropsph)
+
+@SPPHGROUP (https://t.me/spphgroup)
 
