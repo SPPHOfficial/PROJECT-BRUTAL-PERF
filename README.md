@@ -29,6 +29,7 @@ New way to boost your Gaming experience | To see another preview of full install
 - Remove any performance module before installation.
 - Dont put any performance module after installation.
 - Not a build.prop modification.
+- If you can't access telegraph link use VPN.
 
 # Don't know how to download
 Just follow this video on link (https://telegra.ph/file/b2503009cabefd32dadf5.mp4)
