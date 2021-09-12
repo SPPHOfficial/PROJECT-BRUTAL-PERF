@@ -6,23 +6,17 @@
   By TG : @SIRANCHETA_OFFICIAL
 
 # Information
-New way to boost your Gaming experience | To see another preview of full installation visit [KATB](https://katb.in/kat11584)
+New way to boost your Gaming experience 
 
 
 # Changelog: 
-- Added ability to Check the file if existing to avoid error writes.
-- Added Ability to use busybox for it to work properly.
-- Added Ability to recompatible even if Magisk change its mount point in the future.
-- Boost kernel performance.
-- Misc better configuration.
-- SQlite boost configuration.
-- File system boost configuration.
-- Performance boost in device system gpu.
-- Performance boost in device system cpu.
-- Boost Kernel W-R threshold.
-- Boost zram vm holder.
-- And lot more.
+- Upstream setup v2.0045.1 
+- Move service file and created new common folder.
+- Some changes of setup.
 
+
+# Full feature
+[Click me](https://katb.in/meow13302https://katb.in/meow13302)
 
 # Note:
 - Flash busybox first before installing this build.
