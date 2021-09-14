@@ -1,4 +1,5 @@
-![IMG_20210902_120218_445](https://user-images.githubusercontent.com/73354897/131781018-d6d65341-9c7c-4e23-9f23-ad2188ee19e9.jpg)
+![IMG_20210914_112450_808](https://user-images.githubusercontent.com/73354897/133189983-cffd38a7-03bf-4781-8bb8-7912f2eb529a.jpg)
+
 
 
 # PROJECT BRUTAL PERF | Magisk
