@@ -4,7 +4,7 @@
 
 # PROJECT BRUTAL PERF | Magisk
 
-  By TG : @SIRANCHETA_OFFICIAL
+  By TG : @S1RANCHETA
 
 # Information
 New way to boost your Gaming experience 
