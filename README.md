@@ -15,6 +15,15 @@ New way to boost your Gaming experience
 - Move service file and created new common folder.
 - Some changes of setup.
 
+Added: 
+- Boost scrolling 
+- Logcat disabler, well let me know if i need to remove this thing
+- desable profiler for logs of apps
+- stay the launcher in memory
+- lets render the hardware, just to improve touch
+- full gaming new Setup from persist, media, some debugs, some accelerator.
+- lets accelerate your streaming experience via stagefright.
+
 
 # Full feature
 [Click me](https://katb.in/meow13302https://katb.in/meow13302)
